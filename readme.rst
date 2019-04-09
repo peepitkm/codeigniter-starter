@@ -1,11 +1,13 @@
 ###########################
-CodeIgniter Project Starter
+CodeIgniter Starter Project
 ###########################
 
-* CodeIgniter Version 3.1.10
-* Codeigniter Base Model (http://github.com/jamierumbelow/codeigniter-base-model)
-* Codeigniter Simplicity (https://github.com/scoumbourdis/codeigniter-simplicity)
-* CodeIgniter Language (https://codeigniter.com/user_guide/libraries/language.html)
+This is a CodeIgniter starter project that contains data model, theme/template and basic core libraries!
+
+* Version 3.1.10
+* Base Model (http://github.com/jamierumbelow/codeigniter-base-model)
+* Simplicity (https://github.com/scoumbourdis/codeigniter-simplicity)
+* Language (https://codeigniter.com/user_guide/libraries/language.html)
 
 
 ###################
